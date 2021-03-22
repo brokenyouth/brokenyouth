@@ -8,5 +8,5 @@ Yo! My name is Redouane - (or brokenyouth) and I like programming and games & ju
 - 💬 Ask me about: [anything](https://github.com/brokenyouth/brokenyouth/issues)
 - 📫 How to reach me: [email](manana_red@hotmail.com)
 - 😄 Do you like milk strawberry?
-- ⚡ Fun fact: coming soon...
+- ⚡ Fun fact: studying japanese and I struggle :x
 
