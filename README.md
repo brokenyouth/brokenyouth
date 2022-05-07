@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Yo! My name is Redouane - (or brokenyouth) and I like programming, video games & just learning new stuff in general.
+Yo! My name is Redouane and I like programming, video games & just learning new stuff in general.
 
 - 🔭 I’m currently working on ? (looking for a job!)
 - 🌱 I’m currently learning Computer Graphics & Web Dev on my spare time.
